@@ -21,4 +21,5 @@
     background-repeat: no-repeat;
     border-radius: 60px;
     border-color: brown;
+    display: flex;
 }
