@@ -7,4 +7,5 @@
     border-radius: 50px;
     text-decoration: line-through;
     display: flex;
+    justify-content: space-around;
 }
