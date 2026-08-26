@@ -8,4 +8,5 @@
     text-decoration: line-through;
     display: flex;
     justify-content: space-around;
+    align-items: end;
 }
